@@ -1,67 +1,49 @@
-The `SUMMARY.md` file is the backbone of a GitHub-based book (often used with tools like GitBook or mdBook). It provides a clickable table of contents that allows readers to navigate your framework linearly.
+
 
 ---
 
 # SUMMARY.md
 
-# Summary
+## 📖 Table of Contents
 
-* [Preface: The End of Cosmic Narcissism](https://www.google.com/search?q=manuscript/00-preface.md)
-* [Chapter 1: The Universe as a Self-Made Process](https://www.google.com/search?q=manuscript/01-introduction.md)
-* [The Illusion of Intentional Design](https://www.google.com/search?q=%23)
-* [From Simplicity to Infinity: Recursion](https://www.google.com/search?q=%23)
-* [The AI Analogy: Unconscious Design](https://www.google.com/search?q=%23)
+### I. The Conceptual Shift
 
-
-* [Chapter 2: The Foundation of Simplicity](https://www.google.com/search?q=manuscript/02-foundations.md)
-* [Energy as Verb, Not Noun](https://www.google.com/search?q=%23)
-* [Dual-Aspect Monism: The Reality Coin](https://www.google.com/search?q=%23)
-* [The Inertia Mode: Forming Mass](https://www.google.com/search?q=%23)
-
-
-* [Chapter 3: The Binary Engine](https://www.google.com/search?q=manuscript/03-binary-engine.md)
-* [Mode 1: Kinetic Flow](https://www.google.com/search?q=%23)
-* [Mode 0: Potential Readiness](https://www.google.com/search?q=%23)
-* [The Logic of Transformation](https://www.google.com/search?q=%23)
-
-
-* [Chapter 4: Recursive Construction](https://www.google.com/search?q=manuscript/04-recursion.md)
-* [Layer 1: Information Stabilization](https://www.google.com/search?q=%23)
-* [Layer 2: Patterns (Atoms to Stars)](https://www.google.com/search?q=%23)
-* [Layer 3: Self-Maintaining Systems (Life)](https://www.google.com/search?q=%23)
-* [Layer 4: Predictive Structures (Brains)](https://www.google.com/search?q=%23)
-
-
-* [Chapter 5: Emergent Complexity in the Cosmos](https://www.google.com/search?q=manuscript/05-cosmology.md)
-* [Early Universe Dynamics](https://www.google.com/search?q=%23)
-* [Gravity as a Macro-Constraint](https://www.google.com/search?q=%23)
-
-
-* [Chapter 6: Biological Emergence](https://www.google.com/search?q=manuscript/06-biology.md)
-* [Prebiotic Chemistry Gradients](https://www.google.com/search?q=%23)
-* [The Seed: Pre-Patterned Information Grids](https://www.google.com/search?q=%23)
-* [Life as a Guest of Non-Biology](https://www.google.com/search?q=%23)
-
-
-* [Chapter 7: Technological Parallels](https://www.google.com/search?q=manuscript/07-ai-tech.md)
-* [AI: The Unconscious Architect](https://www.google.com/search?q=%23)
-* [Human Innovation as Extended Recursion](https://www.google.com/search?q=%23)
-
-
-* [Chapter 8: Implications and Resolutions](https://www.google.com/search?q=manuscript/08-resolutions.md)
-* [Dissolving Dualism](https://www.google.com/search?q=%23)
-* [Consciousness: The Late-Stage Witness](https://www.google.com/search?q=%23)
-* [Truth as Structural Correspondence](https://www.google.com/search?q=%23)
-
-
-* [Epilogue: The Endless Recursion](https://www.google.com/search?q=manuscript/09-epilogue.md)
+* [The Inversion](https://www.google.com/search?q=manuscript/00-preface.md): Why the universe is observed because it arose.
+* [The Death of Narcissism](https://www.google.com/search?q=manuscript/00-preface.md): Moving from "Mind-First" to "Process-First."
+* [Design Without Intent](https://www.google.com/search?q=manuscript/01-introduction.md): How nature builds like an unconscious AI.
 
 ---
 
-## Appendices
+### II. The Foundations (Simplicity)
 
-* [Checklist for Empirical Research](https://www.google.com/search?q=appendices/research-checklist.md)
-* [Glossary of Terms](https://www.google.com/search?q=appendices/glossary.md)
+* [The Energy Verb](https://www.google.com/search?q=manuscript/02-foundations.md): Defining energy as an action, not a noun.
+* [Dual-Aspect Monism](https://www.google.com/search?q=manuscript/02-foundations.md): The inseparable bond between Math and Energy.
+* [The Binary Pulse](https://www.google.com/search?q=manuscript/03-binary-engine.md): Understanding Mode 1 (Kinetic) and Mode 0 (Potential).
+* [The Inertia Stage](https://www.google.com/search?q=manuscript/03-binary-engine.md): How mass forms when the "verb" settles into a rest state.
+
+---
+
+### III. The Recursive Stack (Building Complexity)
+
+* [Layer 1: Information](https://www.google.com/search?q=manuscript/04-recursion.md): Stabilizing the Energy Verb through constraints.
+* [Layer 2: Patterns](https://www.google.com/search?q=manuscript/04-recursion.md): The emergence of atoms, stars, and galaxies.
+* [Layer 3: Life](https://www.google.com/search?q=manuscript/06-biology.md): Self-maintaining loops and the "Seed as a Grid."
+* [Layer 4: Brains](https://www.google.com/search?q=manuscript/08-resolutions.md): Neurons as unconscious processors of patterns.
+
+---
+
+### IV. The Interface (The Late Witness)
+
+* [The Deciphering Lens](https://www.google.com/search?q=manuscript/08-resolutions.md): Consciousness as a terminal tool for reading math.
+* [Structural Realism](https://www.google.com/search?q=manuscript/08-resolutions.md): Matching our models to the underlying cosmic scaffolding.
+* [The Quiet Miracle](https://www.google.com/search?q=manuscript/09-epilogue.md): The universe waking up to observe its own foundation.
+
+---
+
+### V. Empirical Verification
+
+* [The Research Checklist](https://www.google.com/search?q=appendices/research-checklist.md): Grounding the Verb in Physics and Information Theory.
+* [Glossary](https://www.google.com/search?q=appendices/glossary.md): Unified definitions for the Self-Building Universe.
 
 ---
 
