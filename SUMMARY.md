@@ -16,10 +16,10 @@
 
 ### II. The Foundations (Simplicity)
 
-* [The Energy Verb](https://www.google.com/search?q=manuscript/02-foundations.md): Defining energy as an action, not a noun.
-* [Dual-Aspect Monism](https://www.google.com/search?q=manuscript/02-foundations.md): The inseparable bond between Math and Energy.
-* [The Binary Pulse](https://www.google.com/search?q=manuscript/03-binary-engine.md): Understanding Mode 1 (Kinetic) and Mode 0 (Potential).
-* [The Inertia Stage](https://www.google.com/search?q=manuscript/03-binary-engine.md): How mass forms when the "verb" settles into a rest state.
+* [The Energy Verb](manuscript/02-foundations.md): Defining energy as an action, not a noun.
+* [Dual-Aspect Monism](manuscript/02-foundations.md): The inseparable bond between Math and Energy.
+* [The Binary Pulse](manuscript/03-binary-engine.md): Understanding Mode 1 (Kinetic) and Mode 0 (Potential).
+* [The Inertia Stage](manuscript/03-binary-engine.md): How mass forms when the "verb" settles into a rest state.
 
 ---
 
