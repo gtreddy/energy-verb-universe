@@ -1,1 +1,0 @@
-Glossary, Equations, and References
