@@ -8,7 +8,7 @@
 
 ### I. The Conceptual Shift
 
-* [The Inversion](https://www.google.com/search?q=manuscript/00-preface.md): Why the universe is observed because it arose.
+* [The Inversion](manuscript/00-preface.md)): Why the universe is observed because it arose.
 * [The Death of Narcissism](https://www.google.com/search?q=manuscript/00-preface.md): Moving from "Mind-First" to "Process-First."
 * [Design Without Intent](https://www.google.com/search?q=manuscript/01-introduction.md): How nature builds like an unconscious AI.
 
