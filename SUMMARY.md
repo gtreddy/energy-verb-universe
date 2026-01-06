@@ -2,7 +2,6 @@
 
 ---
 
-# SUMMARY.md
 
 ## 📖 Table of Contents
 
