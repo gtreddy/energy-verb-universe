@@ -10,7 +10,9 @@ The universe is a system of state-switching.
 It does not create new energy; it changes the mode of the "Verb".
 Mathematics dictates when and how these modes switch.
 
-![image 1](./assets/claudeimage.svg)
+![image] (./assets/claudeimage.svg)
+
+
 
 ### Mode 1: Kinetic Flow (The Active State)
 
