@@ -12,6 +12,9 @@ Mathematics dictates when and how these modes switch.
 
 ![image] (./assets/claudeimage.svg)
 
+![My Image](./assets/claudeimage.svg)
+
+
 
 
 ### Mode 1: Kinetic Flow (The Active State)
